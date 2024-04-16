@@ -52,6 +52,10 @@ img.icons{
 }
 
 .main-links{
-    margin: 20px !important;
+    margin: 20px 0 !important;
     text-decoration: underline !important;
+    
+}
+a.main-links{
+    letter-spacing: 0.15em !important;
 }
